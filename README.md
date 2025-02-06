@@ -4,7 +4,7 @@
     <img src="kenobi.gif" width="30px" height="30px" />
 </h1>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=I'm+Hesam+Hosseini;I'm+Back-End+Developer;Working+on+WPF%2C+Asp.Net+Core;Ask+me+about+C%2B%2B%2C+C%23)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&center=true&vCenter=true&width=435&lines=I'm+Hesam+Hosseini;I'm+Back-End+Developer;Working+on+WPF%2C+Asp.Net+Core;Ask+me+about+C%2B%2B%2C+C%23)](https://git.io/typing-svg)
 
 <div align="center">
   <br>
