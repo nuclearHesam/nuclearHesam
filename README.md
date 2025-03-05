@@ -7,8 +7,13 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&center=true&vCenter=true&width=435&lines=I'm+Hesam+Hosseini;I'm+Back-End+Developer;Working+on+WPF%2C+Asp.Net+Core;Ask+me+about+C%2B%2B%2C+C%23)](https://git.io/typing-svg)
 
 <div align="center">
-  <br>
-    <img height="190rem" alt="Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nuclearHesam&langs_count=8&count_private=false&layout=compact&theme=github_dark&bg_color=0d1117&hide_border=true"/>
+## GitHub Stats
+
+<a href="https://github.com/nuclearHesam">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=nuclearHesam&show_icons=true&theme=shades-of-purple&count_private=true" alt="nuclearHesam's GitHub Stats" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nuclearHesam&theme=shades-of-purple&layout=compact" 
+    alt="nuclearHesam GitHub Top Languages" />
+</a>
 </div>
    
 <br>
